@@ -4,7 +4,7 @@ metadata:
   name: nginx-service
   namespace: default
   labels:
-    run: nginx-service
+    run: nginx-service-test
 spec:
   ports:
   - port: 80
